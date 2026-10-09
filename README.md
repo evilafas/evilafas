@@ -1,46 +1,40 @@
 <div align="center">
 
 <pre>
-                    0Cfi,,,...                  ,:iG
-                  01   .,.                          t8
-               0Gi  ..,.                             f
-             G;   ,,.                                .1L0
-          8Li    ,:.                                     ;L
-          L     .,.                                        :L
-         0,..  ..       .,:::,.    .,::;;:,,.                i
-         8: .  ..., .,;1fLCCCLfttt11111111i;:,...             i
-          i ..     :tLG80GGGGGGGCLLffttttt1i;:,.....           G
-          t ..,.:1LG0888880GGGGCCLLLfffffft1i;;:::,..          G
-          t ..:iL08@88888800GGGGGCCLLLffft11ii;ii;:,.          f
-          f   .;L0088888880GGGGGGCCLLfftt11iiiiii;:,.         i
-          8:   .L0088888800GGCCCCCCCLLfft11iiiiii;:,.         L
-           C . ;G008 8@  8800GGGGGGGGCCCLft11ii;;:,,,.        G
-           8, ,G0000G0000808000000000GGCLf1i;:,.,,..,...     .8
-            t ,G0L111i;::::i1fLGGGGGCfti,.    ..     ...     ;
-            0..C0fLGCf1i:,,.:i1LGCLLti:,.,.,::::;::,  ..     f
-            81 G0G0Gt1f1..,1;itC88Gfi,,;;;t;. ., ,::,....    tLG
-          8fGC1G088Gt1CL:,:tiifG88Gt: ,:;iti,.::  .:;;:,.  :i,.,C
-          Gf0 L08888 80GCfftfCG080Ct;:,,;ii11i;;;;;;i;:,.. :ii:if
-          8f08L08888@  88000888880C1::;:;11tffftt11i;;:,.. .ifi:G
-           88GC0088  @880088 8800GL1:,,:;1tttffffft1i;:,. .;tffi
-            0LL0088  8888888880880Gf1;,,,1tfttfffftt1;:,. .:;i;f
-            00000888@  @8880880000GLi;i1:;LLLfffttt1i;:.  .;;.;8
-             888G08888@@88008GttLGf;,:;i;itLLLfftt1i;;,  .iiit8
-                00888888888 88000Cfti:,:i1ttffftt1ii;:.. t 88
-                 088888888808800Gt1Lf;::::;i1ii1ii;;:,,. G
-                 888888880LfGGCCLffi;;:;::::ii:;i;::::, ,8
-                  0888880L1itLCGCftt11;,. ..;1iii:,:::, i
-                   088880G088800CffLL1;:,:;i1111;:::,.. f
-                    00000088800Ct;:,:;ii11111ii;:,,,. . C
-                     800008880000GCLffffft11i;::,,.   . 1
-                       0GG08888880GCLftttt1i;:......,,. iLG8
-                        0GfL0800GLtttfti;;;:.   .,:::.,tCti.i0
-                        080Ltttt1i::;i;:,,.  .:;ii;;ifGGLLL; .C
-                        G8880Cf1i:,......,:;11t111fC080CCGL.   ;G
-                        CC8888880GLtii111tfLLffLG888800G0L,      ;C
-                      L  GG088800Gt1tfffLCGG088  8888000L.         ,;tC8
-                 8GLf::    GCG880CfLCCCC08     88888000t               .;tC8
-            8Cfi:..   ,8     0CG80GGG08        888800Gi
+                     8Cf1;,,....                    ,:;L@
+                   C1,   ...                            ;G
+               Gf1:  ....                                :C8
+           80C;    ,:.                                     .;1C8
+           f     .,,                                           ,f0
+          C. .   ..       .,::::,.   ..,:::::,,.                  t
+          0...  .... .,;1fLCCCCLLfftt11111111ii;:,. .              ;8
+           : ..    ,itCG8880GGGGGGCCLLfftttttt1i;:,,,,..            G
+           i ..::iLG8888888800GGGGGCCLLLffffft1ii;;;;::,.           L
+           i . .;fG08888888800GGGGGGCCLLffftt1iiiiiii;:,.          :0
+           G.    t00888888800GGCCCCCCCCLLfft11iiiiii;;:,.          L
+            L   :C008 8     880GGGGGGGGGCCCLLft1ii;;;:,,,..        0
+            8:  C00GGCCCCCGGGGG000000000GCCft1;;:,..........      :
+             L .L0C1ttti:,,..,:itLCGCCCLti:    ..,,,,..   ...     f
+             8i L0CC0Gftti:,,::;1fG0GCf1:,:::;;,,,,,::::. ...     C88
+           8CGL;C0080fiiCt..,ti;tC080C1: ,:;;1t,. ;,  .:;:,,.   ,;:,;C
+           Cf0 LG08888800GLftttLCG880C1;:,,:iii11i;::;;;;;:,,.  ;i;:it
+           8f08L00888@  @88000888888GL1::;:;i1tfffftt11i;;:,..  :1f1:C
+            88CL0088   8800088@88000GL1;,,,:1ttttffffftti;:,.. ,;ttti
+             0CCG0888@ 88888888888880Gf1;:;:;tfffffffttt1i:,.  ,;;,,C
+             8888G08888@ @880080CffGGLi::i1i:tLLLffttt1ii;:.  .:;;;C
+                 808888888888888GGGGCt1;:::;1ttfffftt1ii;:..  C0G0
+                  00888888888888800C1tLt;:::;;i11ii1ii;;:,,. ;
+                   08888888GftLGCCLfft;;;;::,,,:ii:;i:::::,. f
+                   80888880LtfLCCGGCffff1;,...,;1111;:,::,.  0
+                     80000008 880GCt1ii1i;;;iii111i;:,::,.  ;
+                      88000080000GCLft11tfftt111i;::,,..  . :8
+                         00G088888880GCLffttt11i;,.... .,,. .fG08
+                         80GLLG0000Cftttt1i;;;:.   .,:::,.,1CLt;,10
+                          088Gftt1i;:.,:;::,.. .,:;iii;i1LG0CLCf. .f8
+                         8L08880GCLt1i;:,::::;1ttttttLG0880GCGC;    .1G
+                        0 0LG0888888Gf11tttffLCCGGG08 8880000f,        ,tLG8
+                   80GCi1   8GGG8880LtfLLLCC088     8888000Ci               :1fG8
+             8GLti;,,.  i     80GC080GGGG08       @8888800f.                     :
 </pre>
 
 <pre>
